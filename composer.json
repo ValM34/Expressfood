@@ -1,0 +1,7 @@
+{
+    
+    "require": {
+        "fakerphp/faker": "^1.19",
+        "filp/whoops": "^2.14"
+    }
+}
